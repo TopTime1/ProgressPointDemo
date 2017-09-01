@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\progress\\ProgressPointDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\progress\\ProgressPointDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\myproject\\ProgressPointDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\myproject\\ProgressPointDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HePing\\Desktop\\easemob-sdk-2.3.3\\examples\\ProgressPointDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HePing\\Desktop\\easemob-sdk-2.3.3\\examples\\ProgressPointDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
